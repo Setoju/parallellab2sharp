@@ -1,0 +1,14 @@
+H:\uni\parallelsharp2\obj\Debug\net10.0\ParallelSharp2.GeneratedMSBuildEditorConfig.editorconfig
+H:\uni\parallelsharp2\obj\Debug\net10.0\ParallelSharp2.AssemblyInfoInputs.cache
+H:\uni\parallelsharp2\obj\Debug\net10.0\ParallelSharp2.AssemblyInfo.cs
+H:\uni\parallelsharp2\obj\Debug\net10.0\ParallelSharp2.csproj.CoreCompileInputs.cache
+H:\uni\parallelsharp2\bin\Debug\net10.0\ParallelSharp2.exe
+H:\uni\parallelsharp2\bin\Debug\net10.0\ParallelSharp2.deps.json
+H:\uni\parallelsharp2\bin\Debug\net10.0\ParallelSharp2.runtimeconfig.json
+H:\uni\parallelsharp2\bin\Debug\net10.0\ParallelSharp2.dll
+H:\uni\parallelsharp2\bin\Debug\net10.0\ParallelSharp2.pdb
+H:\uni\parallelsharp2\obj\Debug\net10.0\ParallelSharp2.dll
+H:\uni\parallelsharp2\obj\Debug\net10.0\refint\ParallelSharp2.dll
+H:\uni\parallelsharp2\obj\Debug\net10.0\ParallelSharp2.pdb
+H:\uni\parallelsharp2\obj\Debug\net10.0\ParallelSharp2.genruntimeconfig.cache
+H:\uni\parallelsharp2\obj\Debug\net10.0\ref\ParallelSharp2.dll
